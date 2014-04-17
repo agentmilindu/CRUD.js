@@ -1,0 +1,47 @@
+﻿body {
+}
+
+
+
+.thumbnail{
+    border: none;
+    
+}
+.thumbnail img{
+    border-radius: 0;
+    
+}
+.thumbnail {
+padding-top: 10px;
+float: left;
+width: 190px;
+margin-left: 10px;
+padding-bottom: 10px;
+
+}
+.thumbnail.large img{
+    max-height: 290px;
+    
+}
+
+.thumbnail img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: auto;
+max-height: 170px;
+}
+
+.thumbnail .btn-group {
+    margin-left: 7px;
+    margin-right: auto;
+}
+
+.thumbnail .btn-group a {
+    font-size: 13px;
+}
+
+.thumbnail h3 {
+    font-size: 18px;
+    min-height: 3em;
+}

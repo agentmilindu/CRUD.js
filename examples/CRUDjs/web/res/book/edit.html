@@ -1,0 +1,44 @@
+
+<form class="crud form-horizontal" action="http://google.com" method="POST">
+
+    <div class="form-group">
+        <label class="col-sm-2 control-label">
+            Title
+        </label>
+        <div class="col-sm-10">
+            <input class="form-control" type="text" name="Title" value="{{title}}" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2 control-label">
+            Link to Image
+        </label>
+        <div class="col-sm-10">
+            <input class="form-control" type="text" name="Thumbnail" value="{{image}}" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2 control-label">
+            Author
+        </label>
+        <div class="col-sm-10">
+            <input class="form-control" type="text" name="Author" value="{{author}}" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2 control-label">Description</label>
+        <div class="col-sm-10">
+            <textarea rows="5"  class="form-control"  name="Description">{{description}}</textarea>
+        </div>
+
+    </div>
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+
+            <input value="Update" type="submit" data-action="update" class="btn btn-default" data-id="{{idBook}}" />
+            <a href="#!list" data-action="list">Cancel</a>
+        </div>
+    </div>
+
+</form>
+

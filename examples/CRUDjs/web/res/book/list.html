@@ -1,0 +1,19 @@
+<a href="#!add" class="btn btn-default pull-right" data-action="add">Add</a>
+<div class="row">
+   
+    {{#book}}
+    <div class="thumbnail" >
+        <div>
+           <img class="img-rounded" src="{{image}}" alt="{{title}}"/> 
+        </div>
+        <div class="caption">
+            <h3 >{{title}}</h3>
+        </div>
+        <div class="btn-group">
+            <a href="#!view" class="btn btn-default" data-action="view" data-id="{{idBook}}">View</a>
+            <a href="#!edit" class="btn btn-default" data-action="edit" data-id="{{idBook}}">Edit</a>
+            <a href="#!delete" class="btn btn-default" data-action="delete" data-id="{{idBook}}">Delete</a>
+        </div>
+    </div>
+    {{/book}}
+</div> 
