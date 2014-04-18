@@ -4,7 +4,6 @@
 
 [CRUD.js](https://github.com/cmbhack/crud.js) is an easy way to consume RESTful APIs in JavaScript.
 
-
 ## Where to use CRUD.js?
 
 You can use CRUD.js to make it done complete CRUD operations on a REST service with a minimal number of code anywhere you can use JavaScript, very specially on single page web applications. 
@@ -28,7 +27,6 @@ $(document).ready(function(){
 
 ```
 This could be the only JavaScript codes you have to write for the whole application. 
-
 
 ### Application-Wide Configuration Parameters:
 
