@@ -1,13 +1,13 @@
-# CRUD.js - minimal code for CRUD operations on REST with JavaScript
+# CRUD.js 
 
-> simplify CRUD.
+> Minimal code for CRUD operations on REST APIs with JavaScript
 
-[CRUD.js](https://github.com/cmbhack/crud.js) is an easy to use CRUD framework in JavaScript.
+[CRUD.js](https://github.com/cmbhack/crud.js) is an easy way to consume RESTful APIs in JavaScript.
 
 
 ## Where to use CRUD.js?
 
-You can use CRUD.js to make it done complete CRUD operations on a REST service with a minimal number of code anywhere you can use JavaScript. 
+You can use CRUD.js to make it done complete CRUD operations on a REST service with a minimal number of code anywhere you can use JavaScript, very specially on single page web applications. 
 
 ## Features
 1) Call Rest API CRUD with minimum code.    
@@ -17,29 +17,30 @@ You can use CRUD.js to make it done complete CRUD operations on a REST service w
 ## Usage
 
 Below is quick example how to use CRUD.js:
-.
+
 ```js
- 
 
 $(document).ready(function(){ 
-    $.CRUD.path = "http://www.example.com/api";
+    $.CRUD.path = "http://www.example.com/api"; 
     var Book= new $.CRUD("book");
     Book.list(); 
 }); 
 
 ```
+This could be the only JavaScript codes you have to write for the whole application. 
 
-In this example, the `CRUD.path` config property takes one parameter to the ROOT URL of your REST API.
-The constructor is passed the Table you want to operate on.  
-When we invoke list method on the object all the CRUD operations on this Table.
 
 ### Application-Wide Configuration Parameters:
 
 ```js
-$.CRUD.path // root URL for REST API
-    	$.CRUD.container // where the HTML content should be embeded
-    	$.CRUD.resources // root folder for external templates
+  $.CRUD.path // root URL for REST API
+  $.CRUD.container // where the HTML content should be embeded; default is 'container'
+  $.CRUD.resources // root folder for external templates; default is 'res'
 ```
+
+In this example, the `CRUD.path` config property takes one parameter to the ROOT URL of your REST API.
+The constructor is passed the Table you want to operate on.  
+When we invoke list method on the object all the CRUD operations on this Table.
 
 #### Load External Templates
 
