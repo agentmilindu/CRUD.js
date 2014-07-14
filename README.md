@@ -76,15 +76,15 @@ CRUD.js wouldn't kick ass if it weren't for these fine souls:
 
 ##### Gayan Kulatilleke
 
-Git: tidalbobo    
-E-mail: tidalbobo@gmail.com    
-LinkedIn: lk.linkedin.com/pub/gayan-kulatilleke/12/870/a20    
+Git: [tidalbobo](https://github.com/tidalbobo)  
+E-mail: [tidalbobo@gmail.com](mailto:tidalbobo@gmail.com)    
+LinkedIn: [gayan-kulatilleke](lk.linkedin.com/pub/gayan-kulatilleke/12/870/a20)   
 
 ##### Rasika Weliwita
 
-Git: weliwita    
-E-mail: weliwita@gmail.com    
-LinkedIn:lk.linkedin.com/pub/rasika-weliwita/69/91a/448/    
+Git: [weliwita](https://github.com/weliwita)    
+E-mail: [weliwita@gmail.com](mailto:weliwita@gmail.com)   
+LinkedIn: [rasika-weliwita](lk.linkedin.com/pub/rasika-weliwita/69/91a/448/)    
 
 ##### Milindu Sanoj Kumarage
  
@@ -95,24 +95,24 @@ Twitter: [@agentmilindu](https://twitter.com/AgentMilindu)
 
 ##### Suresh Lasantha 
 
-Git: lasanthasuresh    
-Email: lasanthasuresh@gmail.com    
-Linkedin: http://www.linkedin.com/pub/suresh-lasantha/31/828/192    
-Twitter: @lasanthasuresh    
+Git: [lasanthasuresh](https://github.com/lasanthasuresh)    
+Email: [lasanthasuresh@gmail.com](mailto:lasanthasuresh@gmail.com)    
+Linkedin: [suresh-lasantha](http://www.linkedin.com/pub/suresh-lasantha/31/828/192)    
+Twitter: [@lasanthasuresh](https://twitter.com/lasanthasuresh)    
 
 ##### Dhammika Marasinghe 
 
 Git: [dhammika-marasinghe](https://github.com/dhammika-marasinghe)     
 E-mail: [dhammikammdb123@gmail.com](mailto:dhammikammdb123@gmail.com)    
 LinkedIn: [dhammikamarasinghe](http://lk.linkedin.com/in/dhammikamarasinghe/)    
-twitter: [@dhammikammdb123](https://twitter.com/dhammikammdb123)
+twitter: [@_Dhammika_](https://twitter.com/_Dhammika_)
 
 ##### Manas Najmuddeen
 
-Git: nmmanas
-E-mail: nmmanas@gmail.com    
-LinkedIn: sg.linkedin.com/in/manasnajmuddeen    
-Twitter: @nmmanas    
+Git: [nmmanas](https://github.com/nmmanas)     
+E-mail: [nmmanas@gmail.com](mailto:nmmanas@gmail.com)    
+LinkedIn: [manasnajmuddeen](sg.linkedin.com/in/manasnajmuddeen)    
+Twitter: [@nmmanas](https://twitter.com/nmmanas)    
 
 [mustache.js](https://mustache.github.com/) 
 
